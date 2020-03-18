@@ -96,19 +96,33 @@
       },
       {
         "name": "Accecories 3",
-        "price": "20.000"
+        "price": "20.000",
+        "url": "./pictures/a2.jpg"
       },
       {
         "name": "Accecories 4",
-        "price": "25.000"
+        "price": "25.000",
+        "url": "./pictures/a3.jpg"
       },
       {
         "name": "Accecories 5",
-        "price": "30.000"
+        "price": "30.000",
+        "url": "./pictures/a4.jpg"
       },
       {
         "name": "Accecories 6",
-        "price": "35.000"
+        "price": "35.000",
+        "url": "./pictures/a5.jpg"
+      }
+      {
+        "name": "Accecories 7",
+        "price": "35.000",
+        "url": "./pictures/a6.jpg"
+      }
+      {
+        "name": "Accecories 8",
+        "price": "35.000",
+        "url": "./pictures/a7.jpg"
       }
     ],
     "test": {

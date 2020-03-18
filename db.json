@@ -3,7 +3,7 @@
       {
         "name": "Man 1",
         "price": "10.000",
-        "url": "./pictures/man1.jpg" 
+        "url": "/pictures/man1.jpg" 
       },
       {
         "name": "Man 2",

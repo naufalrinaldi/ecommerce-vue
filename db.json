@@ -8,37 +8,37 @@
       {
         "name": "Man 2",
         "price": "15.000",
-        "url": "./pictures/man2.jpg"
+        "url": "./pictures/man1.jpg"
       },
       {
         "name": "Man 3",
         "price": "20.000",
-        "url": "./pictures/man3.jpg"
+        "url": "./pictures/man2.jpg"
       },
       {
         "name": "Man 4",
         "price": "25.000",
-        "url": "./pictures/man4.jpg"
+        "url": "./pictures/man3.jpg"
       },
       {
         "name": "Man 5",
         "price": "30.000",
-        "url": "./pictures/man5.jpg"
+        "url": "./pictures/man4.jpg"
       },
       {
         "name": "Man 6",
         "price": "35.000",
-        "url": "./pictures/man6.jpg"
+        "url": "./pictures/man5.jpg"
       },
         {
         "name": "Man 7",
         "price": "35.000",
-        "url": "./pictures/man7.jpg"
+        "url": "./pictures/man6.jpg"
       },
         {
         "name": "Man 8",
         "price": "35.000",
-        "url": "./pictures/man8.jpg"
+        "url": "./pictures/man7.jpg"
       }
     ],
     "womans": [

@@ -44,37 +44,55 @@
     "womans": [
       {
         "name": "Woman 1",
-        "price": "10.000"
+        "price": "10.000",
+        "url": "./pictures/woman0.jpg"
       },
       {
         "name": "Woman 2",
-        "price": "15.000"
+        "price": "15.000",
+        "url": "./pictures/woman1.jpg"
       },
       {
         "name": "Woman 3",
-        "price": "20.000"
+        "price": "20.000",
+        "url": "./pictures/woman2.jpg"
       },
       {
         "name": "Woman 4",
-        "price": "25.000"
+        "price": "25.000",
+        "url": "./pictures/woman3.jpg"
       },
       {
         "name": "Woman 5",
-        "price": "30.000"
+        "price": "30.000",
+        "url": "./pictures/woman4.jpg"
       },
       {
         "name": "Woman 6",
-        "price": "35.000"
+        "price": "35.000",
+        "url": "./pictures/woman5.jpg"
+      }
+      {
+        "name": "Woman 7",
+        "price": "35.000",
+        "url": "./pictures/woman6.jpg"
+      }
+      {
+        "name": "Woman 8",
+        "price": "35.000",
+        "url": "./pictures/woman7.jpg"
       }
     ],
     "accecoriess": [
       {
         "name": "Accecories 1",
-        "price": "10.000"
+        "price": "10.000",
+        "url": "./pictures/a0.jpg"
       },
       {
         "name": "Accecories 2",
-        "price": "15.000"
+        "price": "15.000",
+        "url": "./pictures/a1.jpg"
       },
       {
         "name": "Accecories 3",

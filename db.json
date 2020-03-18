@@ -3,7 +3,7 @@
       {
         "name": "Man 1",
         "price": "10.000",
-        "url": "/pictures/man1.jpg" 
+        "url": "/pictures/man0.jpg" 
       },
       {
         "name": "Man 2",
@@ -29,6 +29,16 @@
         "name": "Man 6",
         "price": "35.000",
         "url": "./pictures/man6.jpg"
+      },
+        {
+        "name": "Man 7",
+        "price": "35.000",
+        "url": "./pictures/man7.jpg"
+      },
+        {
+        "name": "Man 8",
+        "price": "35.000",
+        "url": "./pictures/man8.jpg"
       }
     ],
     "womans": [
